@@ -1,0 +1,12 @@
+<Alloy>
+	<View id="container" onClick="containerClick" visible="false">
+		<ImageView id="shadow" image="cardshadow.png" />
+		<View id="metacard">
+			<ImageView id="avatar" />
+			<Label id="title" />
+			<Label id="entity" />
+			<Label id="bio" />
+			<Label id="location" />
+		</View>
+	</View>
+</Alloy>

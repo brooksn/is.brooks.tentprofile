@@ -1,0 +1,7 @@
+{
+	"id": "is.brooks.tentprofile",
+	"name": "is.brooks.tentprofile",
+	"description": "a floating card that displays Tent profile info",
+	"platforms": "ios",
+	"version": "1.0"
+}
